@@ -38,3 +38,4 @@ mintNFT("Tanjiro","Red","green jacket","Hat",35);
 mintNFT("Goku","Black","Martial art Uniform","beanie",36);
 mintNFT("kazuma","brown","blue Jacket","golden Chain",37);
 listNFTs();
+getTotalSupply();
